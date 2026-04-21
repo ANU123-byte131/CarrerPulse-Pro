@@ -1,18 +1,26 @@
-# CarrerPulse-Pro
 
-A modern, production-ready web application template built with Vite, React, and TypeScript. Designed for AI-assisted development with component introspection, layout systems, and excellent developer experience.
+# 🚀 CareerPulse Pro 
+### *Your AI-Powered Personal Career Intelligence Assistant*
 
-## 🚀 Features
+**CareerPulse Pro** is a full-stack SaaS platform designed to bridge the gap between academic learning and professional employment. By leveraging Artificial Intelligence, it provides a centralized ecosystem for students and early professionals to track, analyze, and improve their job readiness in real-time.
 
-- **⚡ Lightning Fast**: Vite for instant hot module replacement and optimized builds
-- **🎯 Type Safe**: Full TypeScript coverage across frontend and backend
-- **🎨 Beautiful UI**: shadcn/ui components with Tailwind CSS
-- **🧠 AI-Friendly**: Component introspection for AI development tools
-- **📱 Responsive**: Mobile-first design with modern CSS
-- **🔧 Developer Experience**: Hot reload, linting, formatting, and testing setup
-- **🚀 Production Ready**: SSR support, optimized builds, and deployment-ready
+---
 
-## 🛠️ Tech Stack
+## 🌟 Core Features
+
+- **📊 Dynamic Job Readiness Score:** A global metric that updates in real-time based on your resume strength, skill acquisitions, and mock interview performance.
+- **🔍 Smart Resume Analyzer & ATS Scorer:** Instant feedback on formatting, keyword density, and compatibility with industry-standard Applicant Tracking Systems.
+- **🛤 AI-Generated Roadmaps:** Personalized, step-by-step career pathways tailored to your target roles.
+- **🤖 AI Career Coach & Interview Simulator:** 24/7 interactive guidance and a simulator to practice role-specific technical and behavioral questions.
+- **🧩 Skill Gap Analysis:** Compare your current profile against specific Job Descriptions (JD) to identify missing competencies.
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS, Framer Motion
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB / PostgreSQL
+- **AI/ML:** OpenAI API, LangChain, Python
+- **Tools:** Figma, Git, Vercel/Render
 
 ### Frontend
 
